@@ -27,7 +27,6 @@ int main()
         if (ch == 'q')
             break;
 
-        this_thread::sleep_for(chrono::seconds(1));
     }
 
     close_ui();

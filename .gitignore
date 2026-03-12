@@ -1,0 +1,6 @@
+# Ignore build artifacts
+obj/
+bin/
+*.o
+sys_monitor
+.vscode/
